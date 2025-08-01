@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\CPP\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC163973-D468-4720-809D-C757E438CEBE}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\Projects\\CPP\\ConsoleApplication1\\ConsoleApplication1\\Bank_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC163973-D468-4720-809D-C757E438CEBE}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Bank_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank_project.cpp",
+              "DocumentMoniker": "E:\\Projects\\CPP\\ConsoleApplication1\\ConsoleApplication1\\Bank_project.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Bank_project.cpp",
+              "ToolTip": "E:\\Projects\\CPP\\ConsoleApplication1\\ConsoleApplication1\\Bank_project.cpp*",
+              "RelativeToolTip": "ConsoleApplication1\\Bank_project.cpp*",
+              "ViewState": "AgIAAOcDAAAAAAAAAAAAAGEBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T14:33:48.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

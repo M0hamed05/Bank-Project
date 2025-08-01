@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bank_project.cpp
+E:\Projects\CPP\ConsoleApplication1\ConsoleApplication1\Bank_project.cpp(106,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\Projects\CPP\ConsoleApplication1\ConsoleApplication1\Bank_project.cpp(554,11): warning C4129: 'W': unrecognized character escape sequence
+E:\Projects\CPP\ConsoleApplication1\ConsoleApplication1\Bank_project.cpp(834,12): warning C4129: 'c': unrecognized character escape sequence
+E:\Projects\CPP\ConsoleApplication1\ConsoleApplication1\Bank_project.cpp(1106,1): warning C4715: 'convert_choose_to_enum_number': not all control paths return a value
+E:\Projects\CPP\ConsoleApplication1\ConsoleApplication1\Bank_project.cpp(1121,1): warning C4715: 'check_access': not all control paths return a value
+  ConsoleApplication1.vcxproj -> E:\Projects\CPP\ConsoleApplication1\x64\Debug\Bank Project.exe
